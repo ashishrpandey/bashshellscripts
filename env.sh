@@ -1,6 +1,3 @@
-==============================
-SCRIPT NAME: env.sh
-==============================
 #!/bin/bash
 clear
 echo "This script will give us environment information"
