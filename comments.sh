@@ -1,6 +1,3 @@
-==============================
-SCRIPT NAME: comments.sh
-==============================
 #!/bin/bash
 # This line is intended to be used as a general description of the script
 # and anything that it does
